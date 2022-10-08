@@ -1,0 +1,12 @@
+# The following packages are necessary to run the code in both notebooks:
+
+matplotlib
+pandas
+seaborn
+ipympl
+ipywidgets
+plotly
+kaleido
+
+# For pip install, use !pip install [package] in the first cell, before package imports
+# For Anaconda distribution, use !conda install -c conda-forge [package]
